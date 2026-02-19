@@ -16,3 +16,11 @@
 * Calculo de tiempo de llegada a la ubicacion del usuario
 * Calculo de tiempo de llegada al destino
 * Actualización en tiempo real segun movimiento del bus
+
+## Salidas (Outputs)
+* Ruta recomendada al usuario
+* Placa,Numero de ruta y Nombre de empresa del bus
+* Tiempo estimado de llegada del bus a la ubicacion del usuario
+* Tiempo total estimado del recorrido
+* Mapa con el recorrido sugerido
+* Notificaciones de retrasos o cambios en la ruta
