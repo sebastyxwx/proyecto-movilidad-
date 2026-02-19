@@ -24,3 +24,22 @@
 * Tiempo total estimado del recorrido
 * Mapa con el recorrido sugerido
 * Notificaciones de retrasos o cambios en la ruta
+  
+## Usuarios y Roles
+* **Administrador:**
+* Gestiona rutas y recorrido
+* Actualiza horarios
+* Supervisa tiempos de cada ruta
+* Administra permisos y configuraciones del sistema
+  
+* **Usuario:**
+* Consulta rutas disponibles
+* Ingresa destino
+* Visualiza tiempos estimados
+* Recibe notificaciones en tiempo real
+  
+## Información Manejada
+* Datos de ubicación en tiempo real de cada bus
+* Información de rutas y recorrido
+* Tiempos estimados y tiempos reales de llegada
+* Incidencias o reportes del sistema
