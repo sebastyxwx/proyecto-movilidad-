@@ -9,3 +9,10 @@
 * Base de datos de rutas disponibles
 * Hora y fecha actual en el sistema
 * Informacion de trafico o contratiempo
+
+## Procesos (Throughput)
+* Validación del destino ingresado por el usuario
+* Establece que ruta pasa por el destino seleccionado
+* Calculo de tiempo de llegada a la ubicacion del usuario
+* Calculo de tiempo de llegada al destino
+* Actualización en tiempo real segun movimiento del bus
