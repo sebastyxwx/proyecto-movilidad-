@@ -38,3 +38,8 @@
 * Visualiza tiempos estimados
 * Recibe notificaciones en tiempo real
   
+## Información Manejada
+* Datos de ubicación en tiempo real de cada bus
+* Información de rutas y recorrido
+* Tiempos estimados y tiempos reales de llegada
+* Incidencias o reportes del sistema
