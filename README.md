@@ -1,4 +1,4 @@
-# Arquitectura del Sistema: [Proyecto-movilidad]
+# Arquitectura del Sistema: [ProyectoMovilidad]
 
 
 ## Entradas (Inputs)
