@@ -1,0 +1,96 @@
+Objetivo General del Sistema
+
+Desarrollar una aplicación móvil que ofrezca información actualizada en tiempo real sobre el transporte público, incluyendo rutas, horarios, ubicación del usuario, tiempos estimados de llegada y posibles retrasos, con el propósito de optimizar la movilidad y mejorar la experiencia de los usuarios.
+
+ Objetivos Específicos
+
+Brindar información exacta sobre qué ruta de bus tomar según la ubicación actual y el destino seleccionado.
+
+Mostrar el tiempo estimado de llegada en tiempo real.
+
+Enviar notificaciones sobre retrasos, cambios o incidencias en el servicio.
+
+ Problema que Soluciona
+
+Este sistema aborda diversas dificultades relacionadas con el transporte público, tales como:
+
+Falta de información confiable y actualizada.
+
+Desconocimiento de la mejor ruta para llegar a un destino.
+
+Incertidumbre sobre horarios reales.
+
+No saber cuánto tiempo falta para que llegue el bus.
+
+Desinformación sobre retrasos.
+
+Pérdida de tiempo esperando el transporte.
+
+ Nivel de Decisión que Impacta
+Nivel Operativo (Principal)
+
+Influye directamente en las decisiones diarias del usuario, como:
+
+Qué bus tomar.
+
+A qué hora salir de casa.
+
+Dónde esperar el transporte.
+
+Si es necesario cambiar de ruta por retrasos.
+
+Nivel Táctico (Secundario)
+
+También puede contribuir a:
+
+Empresas de transporte para optimizar tiempos.
+
+Mejorar la planificación y eficiencia del servicio.
+
+ Decisiones que Permitirá Tomar
+
+El sistema facilitará decisiones como:
+
+Escoger la ruta más rápida o conveniente.
+
+Determinar la mejor hora para salir.
+
+Cambiar de bus o ruta ante retrasos.
+
+Elegir la empresa de transporte más eficiente.
+
+Seleccionar el punto de espera más conveniente según la ubicación.
+
+Planificar mejor el tiempo de llegada al destino.
+
+Optimizar el tiempo de traslado diario.
+
+ ¿Qué Pasaría si el Sistema No Existiera?
+
+En ausencia de esta herramienta:
+
+Los usuarios dependerían únicamente de horarios estáticos.
+
+Aumentaría el tiempo de espera.
+
+Más personas llegarían tarde a sus destinos.
+
+Las empresas no contarían con datos en tiempo real para mejorar el servicio.
+
+ Características Críticas del Sistema
+
+Para garantizar su efectividad, la aplicación debe contar con:
+
+Geolocalización precisa.
+
+Información en tiempo real.
+
+Actualización constante de datos.
+
+Cálculo confiable del tiempo estimado de llegada.
+
+Alertas sobre retrasos o incidencias.
+
+Interfaz intuitiva y fácil de usar.
+
+Protección y seguridad de los datos del usuario.
