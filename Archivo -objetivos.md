@@ -1,94 +1,64 @@
-¿Qué decisiones permitirá tomar el sistema?
+🔹¿Qué decisiones permitirá tomar el sistema?
 
-La aplicación permitirá a los usuarios:
-
-Seleccionar la ruta más rápida o eficiente según su ubicación.
-
-Determinar la hora más adecuada para salir de casa.
-
-Cambiar de bus o recorrido ante retrasos.
-
-Elegir la empresa de transporte que brinde mejor servicio.
-
-Decidir el punto de espera más conveniente.
-
-Organizar mejor su tiempo de llegada y traslado diario.
+- Seleccionar la ruta más eficiente en tiempo y distancia.
+-Determinar la hora óptima de salida según condiciones reales del trafico.
+- Reconfigurar el recorrido ante retrasos o incidentes.
+-Elegir la empresa de transporte con mejor desempeño.
+-Optimizar la gestión del tiempo diario.
 
 🔹 Nivel de decisión que impacta
 Nivel Operativo (principal)
 
-El sistema influye directamente en decisiones cotidianas e inmediatas del usuario, tales como:
+El sistema influye en decisiones inmediatas y rutinarias de los usuarios:
 
-Qué transporte tomar.
+-Qué bus tomar
+-Cuándo salir.
+-Dónde abordar.
+-Si modificar la ruta ante inconvenientes.
 
-Cuándo salir.
+🔹Nivel Táctico (secundario)
 
-Dónde abordar.
+Impacta a las empresas de transporte al permitir:
 
-Si modificar la ruta ante inconvenientes.
-
-Nivel Táctico (secundario)
-
-También aporta valor a las empresas de transporte, ya que:
-
-Facilita la optimización de tiempos.
-
-Permite mejorar la planificación del servicio.
-
-Proporciona datos útiles para la toma de decisiones estratégicas.
+- Optimización de frecuencias.
+- Análisis de tiempos promedio.
+- Mejora en la planificación del servicio.
+- Evaluación del desempeño operativo.
 
 🔹 Problema que resuelve
 
-La aplicación enfrenta problemáticas frecuentes del transporte público, como:
+El sistema resuelve la falta de información en tiempo real del transporte público, que actualmente genera incertidumbre, retrasos y pérdida de tiempo en los usuarios:
 
-Falta de información actualizada.
+-Falta de información actualizada sobre horarios y ubicación de los buces
+-Dificultad para elegir la mejor ruta más eficiente.
+-Pérdida de tiempo por esperas innecesarias.
+-Desconocimiento sobre retrasos o cambios en el servicio.
 
-Incertidumbre sobre los horarios reales.
+🔹Objetivo general
 
-Desconocimiento del tiempo exacto de llegada del bus.
-
-Falta de avisos sobre retrasos o cambios.
-
-Dificultad para elegir la mejor ruta.
-
-Pérdida de tiempo por esperas innecesarias.
-
-🔹 Objetivo general
-
-Diseñar e implementar una aplicación móvil que proporcione información en tiempo real sobre rutas, horarios, tiempos estimados de llegada, ubicación del usuario y posibles retrasos, con el fin de mejorar la movilidad y optimizar la experiencia del usuario.
+Diseñar e implementar un Sistema de Información móvil que proporcione datos en tiempo real sobre rutas, tiempos estimados de llegada e incidencias del servicio, con el fin de optimizar la movilidad urbana y mejorar la experiencia del usuario.
 
 🔹 Objetivos específicos
 
-Orientar al usuario en la elección de la ruta adecuada según su ubicación y destino.
-
-Mostrar tiempos estimados de llegada actualizados constantemente.
-
-Informar sobre retrasos, cambios o incidencias en el servicio.
+-Orientar al usuario en la elección de la ruta adecuada según su ubicación y destino.
+-Calcular tiempos estimados de llegada con precisión.
+-Notificar retrasos o cambios en el servicio.
 
 🔹 Consecuencias si no existiera el sistema
 
 Sin esta herramienta:
 
-Los usuarios dependerían únicamente de horarios impresos o estáticos.
-
-Aumentarían los tiempos de espera.
-
-Se incrementaría la probabilidad de llegar tarde.
-
-Las empresas no contarían con datos en tiempo real para mejorar su desempeño.
+-Los usuarios dependerían únicamente de horarios impresos o estáticos.
+-Aumentarían los tiempos de espera.
+-Se incrementaría la probabilidad de llegar tarde.
+-Las empresas no contarían con datos en tiempo real para mejorar su desempeño.
 
 🔹 Requisitos esenciales del sistema
 
 Para que la aplicación sea eficiente y confiable debe incluir:
 
-Geolocalización exacta.
-
-Información actualizada en tiempo real.
-
-Cálculo preciso del tiempo estimado de llegada.
-
-Notificaciones de retrasos e incidencias.
-
-Interfaz sencilla e intuitiva.
-
-Seguridad y protección de los datos personales.
+-Geolocalización precisa.
+-Información actualizada en tiempo real.
+-Cálculo preciso del tiempo estimado de llegada.
+-Interfaz sencilla e intuitiva.
+-Seguridad y protección de los datos personales.
