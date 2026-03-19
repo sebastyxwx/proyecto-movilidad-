@@ -22,7 +22,7 @@
 * Placa,Numero de ruta y Nombre de empresa del bus
 * Tiempo estimado de llegada del bus a la ubicacion del usuario
 * Tiempo total estimado del recorrido
-* Mapa con el recorrido sugerido
+* Mapa con el recorrido sugerido 
 * Notificaciones de retrasos o cambios en la ruta
 
 ## Usuarios y Roles
