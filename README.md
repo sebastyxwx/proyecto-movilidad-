@@ -1,5 +1,4 @@
-https://github.com/sebastyxwx/proyecto-movilidad-/blob/147b2aa8a9e29665e4380d981b736e366d3593f1/WhatsApp%20Image%202026-04-05%20at%205.34.03%20PM.jpeg
-
+https://github.com/sebastyxwx/proyecto-movilidad-/blob/3a922f898ea7a3a113dc51053d340a1166347cef/WhatsApp%20Image%202026-04-05%20at%205.34.03%20PM.jpeg
 # 1. Cliente (App móvil / Tablet)
 El usuario desde la app puede:
 Solicitar rutas (consultar cómo llegar).
