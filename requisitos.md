@@ -58,4 +58,3 @@ La plataforma debe soportar un aumento de usuarios sin afectar el rendimiento.
 
 
 
-El código debe estar documentado para facilitar futuras mejoras.
