@@ -32,4 +32,3 @@ Requerimientos Funcionales
 
 7.1. Mantenimiento El código debe estar documentado para facilitar futuras mejoras.
 
-El código debe estar documentado para facilitar futuras mejoras.
